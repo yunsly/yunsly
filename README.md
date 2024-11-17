@@ -23,7 +23,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yunsly&show_icons=true&theme=shadow_blue" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunsly&layout=compact&theme=shadow_blue&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunsly&layout=compact&theme=shadow_blue&card_width=200" />
   </a>
 </div>
 
